@@ -225,3 +225,5 @@ Implementado: Caché parcial con fallback graceful
 3. **Room vs SharedPreferences**: Room para datos complejos; Prefs para booleans/strings
 4. **Retrofit vs HttpUrlConnection**: Retrofit maneja retries, interceptors, deserialization automática
 
+## Video: 
+https://youtube.com/shorts/63JODX2BWGg?feature=share
